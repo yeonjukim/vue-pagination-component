@@ -1,0 +1,31 @@
+{
+  "name": "vue-pagination-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeonjukim/vue-pagination-component.git"
+  },
+  "author": "yeonjukim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonjukim/vue-pagination-component/issues"
+  },
+  "homepage": "https://github.com/yeonjukim/vue-pagination-component#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
