@@ -17,11 +17,13 @@
   ```console
   $ cd example
   ```
-1. npm install
+
+2. npm install
   ```console
   $ npm install
   ```
-1. 로컬 개발용 서버 띄우기
+
+3. 로컬 개발용 서버 띄우기
   ```console
   $ npm run dev
   ```
